@@ -1,5 +1,3 @@
-# Pratistha Chaira
-
 # Hi there, I'm Pratistha Chaira 👋
 
 ### 🚀 About Me
