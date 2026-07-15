@@ -1,4 +1,4 @@
-# Hi there, I'm Pratistha Chaira 👋
+# Hi there, I'm Pratistha 👋
 
 ### 🚀 About Me
 I am a developer focused on **Artificial Intelligence, Machine Learning, and Software Engineering**. I specialize in building data-driven systems, implementing complex algorithms, and deploying practical AI solutions.
@@ -7,40 +7,25 @@ I am a developer focused on **Artificial Intelligence, Machine Learning, and Sof
 
 ### 💻 Tech Stack & Tools
 
-<table>
-  <tr>
-    <td><b>🚀 Programming Languages</b></td>
-    <td>
-      <img src="https://shields.io" alt="C" height="25" />
-      <img src="https://shields.io" alt="C++" height="25" />
-      <img src="https://shields.io" alt="Python" height="25" />
-      <img src="https://shields.io" alt="Java" height="25" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>🌐 Web Development Frameworks</b></td>
-    <td>
-      <img src="https://shields.io" alt="HTML5" height="25" />
-      <img src="https://shields.io" alt="CSS3" height="25" />
-      <img src="https://shields.io" alt="JavaScript" height="25" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>🤖 AI/ML Frameworks & Libraries</b></td>
-    <td>
-      <img src="https://shields.io" alt="Pandas" height="25" />
-      <img src="https://shields.io" alt="NumPy" height="25" />
-      <img src="https://shields.io" alt="scikit-learn" height="25" />
-      <img src="https://shields.io" alt="SpaCy" height="25" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>🗄️ Database Management</b></td>
-    <td>
-      <img src="https://shields.io" alt="MySQL" height="25" />
-    </td>
-  </tr>
-</table>
+#### 🚀 Programming Languages
+* ![C](https://shields.io) **C**
+* ![C++](https://shields.io) **C++**
+* ![Python](https://shields.io) **Python**
+* ![Java](https://shields.io) **Java**
+
+#### 🌐 Web Development Frameworks
+* ![HTML5](https://shields.io) **HTML5**
+* ![CSS3](https://shields.io) **CSS3**
+* ![JavaScript](https://shields.io) **JavaScript**
+
+#### 🤖 AI/ML Frameworks & Libraries
+* ![Pandas](https://shields.io) **Pandas**
+* ![NumPy](https://shields.io) **NumPy**
+* ![scikit-learn](https://shields.io) **scikit-learn**
+* ![spaCy](https://shields.io) **spaCy**
+
+#### 🗄️ Database Management
+* ![MySQL](https://shields.io) **MySQL**
 
 ---
 
@@ -54,9 +39,7 @@ I am a developer focused on **Artificial Intelligence, Machine Learning, and Sof
 ---
 
 ### 📊 GitHub Stats
-*(Using the stable community extended stats server)*
 
-<p align="left">
-  <img src="https://vercel.app" alt="GitHub Stats" height="150" />
-  <img src="https://vercel.app" alt="Top Languages" height="150" />
-</p>
+![Pratistha's Stats](https://vercel.app)
+
+![Pratistha's Top Languages](https://vercel.app)
