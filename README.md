@@ -7,17 +7,40 @@ I am a developer focused on **Artificial Intelligence, Machine Learning, and Sof
 
 ### 💻 Tech Stack & Tools
 
-#### 🚀 Programming Languages
-![C](https://shields.io) ![C++](https://shields.io) ![Python](https://shields.io) ![Java](https://shields.io)
-
-#### 🌐 Web Development Frameworks & Tools
-![HTML5](https://shields.io) ![CSS3](https://shields.io) ![JavaScript](https://shields.io)
-
-#### 🤖 AI/ML Frameworks & Libraries
-![Pandas](https://shields.io) ![NumPy](https://shields.io) ![scikit-learn](https://shields.io) ![SpaCy](https://shields.io)
-
-#### 🗄️ Database Management
-![MySQL](https://shields.io)
+<table>
+  <tr>
+    <td><b>🚀 Programming Languages</b></td>
+    <td>
+      <img src="https://shields.io" alt="C" height="25" />
+      <img src="https://shields.io" alt="C++" height="25" />
+      <img src="https://shields.io" alt="Python" height="25" />
+      <img src="https://shields.io" alt="Java" height="25" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>🌐 Web Development Frameworks</b></td>
+    <td>
+      <img src="https://shields.io" alt="HTML5" height="25" />
+      <img src="https://shields.io" alt="CSS3" height="25" />
+      <img src="https://shields.io" alt="JavaScript" height="25" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>🤖 AI/ML Frameworks & Libraries</b></td>
+    <td>
+      <img src="https://shields.io" alt="Pandas" height="25" />
+      <img src="https://shields.io" alt="NumPy" height="25" />
+      <img src="https://shields.io" alt="scikit-learn" height="25" />
+      <img src="https://shields.io" alt="SpaCy" height="25" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>🗄️ Database Management</b></td>
+    <td>
+      <img src="https://shields.io" alt="MySQL" height="25" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -31,6 +54,9 @@ I am a developer focused on **Artificial Intelligence, Machine Learning, and Sof
 ---
 
 ### 📊 GitHub Stats
+*(Using the stable community extended stats server)*
 
-![GitHub Stats](https://vercel.app)
-![Top Languages](https://vercel.app)
+<p align="left">
+  <img src="https://vercel.app" alt="GitHub Stats" height="150" />
+  <img src="https://vercel.app" alt="Top Languages" height="150" />
+</p>
