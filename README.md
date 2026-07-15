@@ -8,32 +8,16 @@ I am a developer focused on **Artificial Intelligence, Machine Learning, and Sof
 ### 💻 Tech Stack & Tools
 
 #### 🚀 Programming Languages
-<p align="left">
-  <img src="https://shields.io" alt="C" />
-  <img src="https://shields.io" alt="C++" />
-  <img src="https://shields.io" alt="Python" />
-  <img src="https://shields.io" alt="Java" />
-</p>
+![C](https://shields.io) ![C++](https://shields.io) ![Python](https://shields.io) ![Java](https://shields.io)
 
 #### 🌐 Web Development Frameworks & Tools
-<p align="left">
-  <img src="https://shields.io" alt="HTML5" />
-  <img src="https://shields.io" alt="CSS3" />
-  <img src="https://shields.io" alt="JavaScript" />
-</p>
+![HTML5](https://shields.io) ![CSS3](https://shields.io) ![JavaScript](https://shields.io)
 
 #### 🤖 AI/ML Frameworks & Libraries
-<p align="left">
-  <img src="https://shields.io" alt="Pandas" />
-  <img src="https://shields.io" alt="NumPy" />
-  <img src="https://shields.io" alt="scikit-learn" />
-  <img src="https://shields.io" alt="SpaCy" />
-</p>
+![Pandas](https://shields.io) ![NumPy](https://shields.io) ![scikit-learn](https://shields.io) ![SpaCy](https://shields.io)
 
 #### 🗄️ Database Management
-<p align="left">
-  <img src="https://shields.io" alt="MySQL" />
-</p>
+![MySQL](https://shields.io)
 
 ---
 
@@ -48,7 +32,5 @@ I am a developer focused on **Artificial Intelligence, Machine Learning, and Sof
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://vercel.app" alt="GitHub Stats" height="180px"/>
-  <img src="https://vercel.app" alt="Top Languages" height="180px"/>
-</p>
+![GitHub Stats](https://vercel.app)
+![Top Languages](https://vercel.app)
